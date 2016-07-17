@@ -33,6 +33,7 @@ var bands = []string{
 	string(band.AU_915_928),
 	string(band.EU_863_870),
 	string(band.US_902_928),
+	string(band.CN_470_510),
 }
 
 func run(c *cli.Context) {
